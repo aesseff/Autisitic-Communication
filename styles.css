@@ -1,0 +1,17 @@
+.bordered-element {
+    width: auto;
+    height: 1150px;
+    border: 20px solid;
+}
+
+
+
+
+.information { 
+    width: 20%
+    background-color white
+    margin-left 80;
+    margin-right: 80;
+    padding: px;
+    max-width: auto;
+}
