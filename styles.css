@@ -1,17 +1,27 @@
-.bordered-element {
-    width: auto;
-    height: 1150px;
-    border: 20px solid;
+
+body {
+    background-image: url(https://m.media-amazon.com/images/I/A1gkahjDYTL._AC_SX679_.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+hr { 
+    height: 6px;
+    background-color: black;
+    border-color: black;
+}
+
+.frame {
+    width: 80%;
+    background-color: #f8f9f9;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
 }
 
 
 
 
-.information { 
-    width: 20%
-    background-color white
-    margin-left 80;
-    margin-right: 80;
-    padding: px;
-    max-width: auto;
-}
+
+
