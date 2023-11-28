@@ -5,5 +5,6 @@ This is an interactive homepage.
 
 ## Subheader
 
-Check my project out on github.com
+This project is using HTML and CSS
+
 
